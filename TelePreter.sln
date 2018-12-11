@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelePreter", "TelePreter\TelePreter.csproj", "{60564E07-DA54-477C-B70A-C951D55AEF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60564E07-DA54-477C-B70A-C951D55AEF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60564E07-DA54-477C-B70A-C951D55AEF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60564E07-DA54-477C-B70A-C951D55AEF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60564E07-DA54-477C-B70A-C951D55AEF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B588F745-1B6A-455F-95B4-17B398BAF6B5}
+	EndGlobalSection
+EndGlobal
